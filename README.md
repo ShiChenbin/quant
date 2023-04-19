@@ -2,6 +2,8 @@
 制定属于我的量化交易
 # need
 - A trading API
+- indicators(指标的单独判断，和混合判断)
+- 风险回撤
 - and so on
 
 # text
@@ -19,7 +21,7 @@ Implement algorithms to analyze market trends and generate trading signals based
 Create a user-friendly interface for traders to input parameters, view market data, and track trades.
 Test the software in various market conditions to ensure accuracy and effectiveness.
 Project Scope:
-The project will involve designing and developing a software system that integrates ten different indicators to analyze market trends and generate trading signals. The software will utilize machine learning algorithms to make trades based on the combined analysis of the indicators. The software will be designed to execute trades within a 10-second window. The software will be compatible with major cryptocurrency exchanges and will be accessible through a user-friendly interface.
+The project will involve designing and developing a software system that integrates **ten different indicators** to analyze market trends and generate trading signals. The software will utilize machine learning algorithms to make trades based on the combined analysis of the indicators. The software will be designed to execute trades within a 10-second window. The software will be compatible with major cryptocurrency exchanges and will be accessible through a user-friendly interface.
 
 Project Deliverables:
 
@@ -51,3 +53,6 @@ Market volatility and unpredictability could affect the accuracy of the software
 Security breaches and hacking attacks could put user data and funds at risk. We will implement robust security measures to protect against these risks.
 The software may not be accepted or used by traders. We will conduct market research and gather user feedback to ensure the software meets the needs of the target audience.
 Thank you for considering this project plan. Let me know if you need any further assistance.
+
+# reference
+- https://jspauld.com/post/35126549635/how-i-made-500k-with-machine-learning-and-hft
